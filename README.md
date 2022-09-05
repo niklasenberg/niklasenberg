@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @niklasenberg
+- 👋 Hi, I’m [@niklasenberg](https://www.linkedin.com/in/niklas-enberg-121127170)
 - 🌱 I’m currently learning [Computer and Systems sciences at Stockholm University](https://www.su.se/english/search-courses-and-programmes/sysdk-1.411896)
 
 <!---
